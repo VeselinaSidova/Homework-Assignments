@@ -1,0 +1,16 @@
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.exe
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.deps.json
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.runtimeconfig.json
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.runtimeconfig.dev.json
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.dll
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\bin\Debug\net5.0\ref\04.BackIn30Minutes.dll
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\bin\Debug\net5.0\04.BackIn30Minutes.pdb
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.csproj.AssemblyReference.cache
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.AssemblyInfoInputs.cache
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.AssemblyInfo.cs
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.dll
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\obj\Debug\net5.0\ref\04.BackIn30Minutes.dll
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.pdb
+E:\Programming\GitHub\Homework-Assignments\C#\C# Fundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\04.BackIn30Minutes\obj\Debug\net5.0\04.BackIn30Minutes.genruntimeconfig.cache
