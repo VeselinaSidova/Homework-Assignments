@@ -1,0 +1,42 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    box-sizing: border-box;
+}
+
+header h1 {
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+nav {
+    display: inline-block;
+    text-align: center;
+    vertical-align: center;
+    margin-left: 50px;
+}
+
+nav ul li {
+    display: inline-block;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #139D19;
+}
+
+
+main h1 {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+main p {
+    font-size: 14px;
+}
+
