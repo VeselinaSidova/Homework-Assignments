@@ -1,0 +1,29 @@
+ body {
+    margin: 40px 60px;
+    max-width: 65vw;
+ }
+ 
+ header {
+    display: flex;
+    border-bottom: 2px solid rgb(0,0,0);
+    align-items: center; 
+ }
+
+ header nav {
+    margin-left: auto;
+ }
+
+ header nav ul {
+    display: flex;
+    gap: 20px;
+ }
+
+ header nav ul li {
+    list-style: none;
+ }
+
+ header nav ul li a {
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+ }
+

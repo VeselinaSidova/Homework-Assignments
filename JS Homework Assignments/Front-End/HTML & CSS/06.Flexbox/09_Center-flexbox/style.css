@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+body {
+    box-sizing: border-box;
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    font-family: Georgia, serif;
+    justify-content: center;
+    height: 100vh;
+}
+
+div {
+    align-self: center;
+    padding: 32px 30px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 20px 0 gray;
+    border-radius: 6px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 15px;
+}
