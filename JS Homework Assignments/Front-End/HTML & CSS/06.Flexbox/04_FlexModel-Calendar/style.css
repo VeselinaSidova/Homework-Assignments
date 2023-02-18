@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
 }
 
 .container {
@@ -13,7 +14,6 @@ section.week {
     flex-wrap: wrap;
     align-items: center;
     text-align: center;
-    max-width: 70vw;
     height: 600px;
 }
 
@@ -27,31 +27,27 @@ section.notes {
 
 span {
     border: 1px solid black;
-    padding: 10px 20px;
+    padding: 20px;
     height: 150px;
 }
  
 section.notes span {
     width: 250px;
     height: 300px;
+    font-size: 20px;
 }
 
-section.week span:nth-child(-n+6) {
+section.week span {
     width: 20%;
 }
 
-section.week span:nth-child(1) {
-    width: 100%;
-}
-
+section.week span:nth-child(1),
 section.week span:nth-child(7) {
     width: 100%;
+    font-size: 20px;
 }
 
-section.week span:nth-child(8) {
-    width: 50%;
-}
-
+section.week span:nth-child(8),
 section.week span:nth-child(9) {
     width: 50%;
 }
