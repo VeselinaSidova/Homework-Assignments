@@ -1,0 +1,15 @@
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\bin\Debug\net6.0\10. MultiplicationTable.exe
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\bin\Debug\net6.0\10. MultiplicationTable.deps.json
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\bin\Debug\net6.0\10. MultiplicationTable.runtimeconfig.json
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\bin\Debug\net6.0\10. MultiplicationTable.dll
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\bin\Debug\net6.0\10. MultiplicationTable.pdb
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\10. MultiplicationTable.csproj.AssemblyReference.cache
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\10. MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\10. MultiplicationTable.AssemblyInfoInputs.cache
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\10. MultiplicationTable.AssemblyInfo.cs
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\10. MultiplicationTable.csproj.CoreCompileInputs.cache
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\10. MultiplicationTable.dll
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\refint\10. MultiplicationTable.dll
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\10. MultiplicationTable.pdb
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\10. MultiplicationTable.genruntimeconfig.cache
+E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\IntroAndBasicSyntaxLab\10. MultiplicationTable\obj\Debug\net6.0\ref\10. MultiplicationTable.dll
