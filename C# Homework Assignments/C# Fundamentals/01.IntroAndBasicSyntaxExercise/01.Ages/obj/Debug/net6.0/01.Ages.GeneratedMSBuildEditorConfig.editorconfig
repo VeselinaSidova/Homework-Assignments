@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _01.Ages
+build_property.ProjectDir = E:\Programming\GitHub\Homework-Assignments\C# Homework Assignments\C# Fundamentals\01.IntroAndBasicSyntaxExercise\01.Ages\
