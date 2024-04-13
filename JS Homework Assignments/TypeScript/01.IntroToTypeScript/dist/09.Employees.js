@@ -1,0 +1,15 @@
+const employeeNumberCreator = (employees) => {
+    let employeeNumber = 0;
+    let employee = "";
+    for (let i = 0; i < employees.length; i++) {
+        employee = employees[i];
+        employeeNumber = employees[i].length;
+        console.log(`Name: ${employees[i]} -- Personal Number: ${employees[i].length}`);
+    }
+};
+employeeNumberCreator([
+    "Silas Butler",
+    "Adnaan Buckley",
+    "Juan Peterson",
+    "Brendan Villarreal",
+]);
