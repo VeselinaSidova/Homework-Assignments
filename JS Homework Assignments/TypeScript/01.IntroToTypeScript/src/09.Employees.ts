@@ -1,4 +1,4 @@
-const employeeNumberCreator = (employees: string[]) => {
+const employeeNumberCreator = (employees: string[]): void => {
   let employeeNumber: number = 0;
   let employee: string = "";
 

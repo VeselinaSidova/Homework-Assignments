@@ -4,7 +4,7 @@ const employeeNumberCreator = (employees) => {
     for (let i = 0; i < employees.length; i++) {
         employee = employees[i];
         employeeNumber = employees[i].length;
-        console.log(`Name: ${employees[i]} -- Personal Number: ${employees[i].length}`);
+        console.log(`Name: ${employee} -- Personal Number: ${employees[i].length}`);
     }
 };
 employeeNumberCreator([

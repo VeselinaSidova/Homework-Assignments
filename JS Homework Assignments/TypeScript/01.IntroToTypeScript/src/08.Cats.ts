@@ -1,4 +1,4 @@
-const catBuilder = (cats: string[]) => {
+const catBuilder = (cats: string[]): void => {
   for (let i = 0; i < cats.length; i++) {
     let name: string = cats[i].split(" ")[0];
     let age: number = Number(cats[i].split(" ")[1]);
